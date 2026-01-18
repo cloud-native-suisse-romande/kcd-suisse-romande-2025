@@ -8,6 +8,7 @@ Most of the content lives here:
 - [Conference Program](https://sessionize.com/view/rlq5we3p/GridSmart) - on Sessionize
 - [Media Kit](./mediakit/) - for the event promotion
 - [Association Website](https://cloud-native-romandy.ch) - additional resources and assets [GitHub](https://github.com/cloud-native-suisse-romande/association-website)
+- [2025 Transparency Report](https://www.cncf.io/reports/kcd-suisse-romande-2025/)
 
 
 ## Chat
