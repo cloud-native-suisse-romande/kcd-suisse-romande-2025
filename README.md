@@ -6,7 +6,9 @@ Most of the content lives here:
 
 - [Conference site](https://kcd.cloud-native-romandy.ch) - on community.cncf.io
 - [Conference Program](https://sessionize.com/view/rlq5we3p/GridSmart) - on Sessionize
+- [KCD Suisse Romande 2025 - Conference Highlights](https://youtu.be/58LedMmUvNE?si=1xEWtykpQErzcpUW)
 - [Video Recordings](https://www.youtube.com/watch?v=58LedMmUvNE&list=PLg2OjtyfIbOGVN6AIa-BVgL9i0SpR_tFD)
+- [Sponsors and Community Partners](./sponsors.md)
 
 ## Chat
 
